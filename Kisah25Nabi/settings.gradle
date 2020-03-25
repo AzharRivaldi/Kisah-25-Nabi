@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Kisah 25 Nabi'
